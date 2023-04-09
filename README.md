@@ -1,2 +1,0 @@
-# python-lambda
-python lambda
